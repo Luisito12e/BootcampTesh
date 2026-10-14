@@ -11,7 +11,7 @@ Proyecto desarrollado para el bootcamp de Stellar en el TESH (Tecnológico de Es
   [Ver Transacción de Despliegue](https://stellar.expert/explorer/testnet/tx/b1f44b90c09edbe32208a1bc9004a2ba35eabfd4c9db0a205da653312bba2122)
 
 - **Evidencia On-Chain (Invocación con Freighter):**
-  PEGA_AQUÍ_EL_LINK_DE_STELLAR_EXPERT_QUE_TE_DIO_LA_PANTALLA
+ (https://stellar.expert/explorer/testnet/tx/7564421e15d7e0521af5c8e43aa7df6b96bdebc6492265b6076ac81db1d57a51)
 
 ## 🛠️ Tecnologías Utilizadas
 
